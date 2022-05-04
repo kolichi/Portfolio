@@ -1,5 +1,4 @@
 import React from 'react'
-import {BrowserRouter as Router} from "react-router-dom"
 import Header from './Components/header'
 import Nav from './Components/nav'
 import About from './Components/about'

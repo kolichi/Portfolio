@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me.webp' 
+import ME from '../../assets/me-about.jpg' 
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
@@ -30,7 +30,7 @@ const About = () => {
            <article className='about__card'>
 
              <FaAward className='about__icon' />
-             <h5> APIs &  PHP </h5>
+             <h5> API &  PHP </h5>
              <small> 1+ years working </small> 
 
            </article>
