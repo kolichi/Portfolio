@@ -22,10 +22,11 @@
 }
 
 .about__me-image {
-    border-radius: 2rem;
+    border-radius: 3rem;
     overflow: hidden;
     transform: rotate(10deg);
     transition: var(--transaition);
+    
 }
 
 .about__me-image:hover{

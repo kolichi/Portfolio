@@ -9,7 +9,7 @@ const footer = () => {
   return (
     <footer id='Footer'> 
     
-    <a href="" className="footer__logo"> TUTU </a>
+    <a href="#" className="footer__logo"> TUTU </a>
 
     <ul className="permalinks">
       
