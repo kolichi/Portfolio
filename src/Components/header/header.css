@@ -42,7 +42,7 @@ header {
 /*==== ME IMAGE ==== */
  
 .me {
-    background:linear-gradient( var(--color-primary), transparent);
+    background:linear-gradient( var(--color-white), transparent);
     width: 22rem;
     height: 30rem;
     position: absolute;
@@ -59,7 +59,7 @@ header {
 
 .me img {
     object-position: -5.5rem;
-    height: 32.5rem;
+    height: 31.5rem;
 
 }
 
