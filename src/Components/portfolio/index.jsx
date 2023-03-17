@@ -14,9 +14,9 @@ const data = [
   {         
     id:1,
     image:IMG1,
-    title: 'Stretford Lending Services' ,
+    title: '(Udemy) -learning marketplace' ,
     github:'https://github.com/kolichi',
-    demo: 'http://stretfordlending.com' 
+    demo: 'http://tutoryz.com' 
   },
 
   {         
@@ -30,9 +30,9 @@ const data = [
   {         
     id:3,
     image:IMG3,
-    title: 'Java School Management Sys' ,
+    title: 'Fashion Ecommerce Marketplace' ,
     github:'https://github.com/kolichi',
-    demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization' 
+    demo: 'https://tutory-z.online' 
   },
 
   {         
